@@ -10,8 +10,11 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="WmSalesforceProvider">12.0.0</value>
+    <value name="WmSalesforceProvider">v12.0.0</value>
+<<<<<<< HEAD
     <value name="WmCloudStreams">12.0.0</value>
+=======
+>>>>>>> 309c633520bbb3df8f2aba98cbc318ca24d016e6
   </record>
   <value name="listACL">Default</value>
   <value name="webappLoad">yes</value>
